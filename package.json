@@ -1,0 +1,33 @@
+{
+	"name":"jsconsole.com",
+	"fullName":"JSConsole.com",
+	"version":"0.0.1",
+	"keywords": [
+       "debug",
+       "debugging",
+       "debuger",
+       "remote",
+       "jsconsole",
+       "console"
+   ],
+   "description":"Debug your apps remotely with jsconsole.com",
+   "joshfire":{
+		"images":{
+ 	    	
+ 	  	},
+   		"hooks":["startfile"],
+   		"options":{
+   			"form":[{
+   				"key":"token",
+   				"type":"text"
+   			}],
+			"schema":{
+				"token":{
+					"type":"string",
+					"title":"Token",
+					"description":"Use this after the ':listen' command on jsconsole.com"
+				}
+			}
+		}
+   }
+}
