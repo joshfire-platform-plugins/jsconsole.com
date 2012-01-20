@@ -25,7 +25,7 @@
 				"token":{
 					"type":"string",
 					"title":"Token",
-					"description":"Use this after the ':listen' command on jsconsole.com"
+					"description":"Use this after the <a href='http://jsconsole.com/remote-debugging.html'>:listen</a> command on <a href='http://jsconsole.com/'>jsconsole.com</a>"
 				}
 			}
 		}
