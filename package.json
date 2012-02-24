@@ -12,9 +12,10 @@
    ],
    "description":"Debug your apps remotely with jsconsole.com",
    "joshfire":{
-		"images":{
- 	    	
- 	  	},
+    "images":{
+        "small":"marketing/image-small.png",
+        "big":"marketing/image-small.png"
+      },   
    		"hooks":["startfile"],
    		"options":{
    			"form":[{
