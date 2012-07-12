@@ -1,7 +1,7 @@
 {
 	"name":"jsconsole.com",
 	"fullName":"JSConsole.com",
-	"version":"0.0.1",
+	"version":"0.1.0",
 	"keywords": [
        "debug",
        "debugging",
