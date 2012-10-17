@@ -10,7 +10,7 @@
        "jsconsole",
        "console"
    ],
-   "description":"Debug your apps remotely with jsconsole.com",
+   "description":"Debug your application remotely with jsconsole.com",
    "joshfire":{
     "images":{
         "small":"marketing/image-small.png",
@@ -26,7 +26,8 @@
 				"token":{
 					"type":"string",
 					"title":"Token",
-					"description":"Use this after the <a target='_blank' href='http://jsconsole.com/remote-debugging.html'>:listen</a> command on <a target='_blank' href='http://jsconsole.com/'>jsconsole.com</a>"
+					"description":"Use this after the <a target='_blank' href='http://jsconsole.com/remote-debugging.html'>:listen</a> command on <a target='_blank' href='http://jsconsole.com/'>jsconsole.com</a>",
+					"required": true
 				}
 			}
 		}
